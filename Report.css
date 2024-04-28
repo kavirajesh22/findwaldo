@@ -1,0 +1,6 @@
+.Report-dog {
+    height: 80vmin;
+    pointer-events: none;
+    margin-bottom: 1%;
+    border: 10px solid #e65757;
+  }

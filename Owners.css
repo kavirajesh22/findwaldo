@@ -1,0 +1,16 @@
+#information{
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+#italics{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(200, 85, 85);
+    
+}
+#report{
+    margin-top: 50px;
+    margin-bottom:50px;
+}

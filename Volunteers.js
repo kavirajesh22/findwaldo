@@ -1,3 +1,4 @@
+//this is an initial test for volunteers.js
 import React, { useEffect, useState } from 'react';
 import './Volunteers.css';
 
@@ -7,6 +8,7 @@ function Volunteers(){
         // load google maps api dynamically bc we can't use html
         const script = document.createElement('script');
         //import google maps ai key
+        //volunteers yay
         script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAMjjIAkcsJmVsQ0BqkqioekR0Foryqtgc&loading=async&libraries=geometry&callback=initMap";
         script.async = true;
         script.defer = true;

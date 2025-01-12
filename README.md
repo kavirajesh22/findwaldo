@@ -1,5 +1,5 @@
 # Where's my Waldo?
-## Lost your dog? Don't know where to look for them? Our app plays the game of "Where's Waldo" for you, uniting neighbors together in bringing pets home one swipe at a time.
+> ## Lost your dog? Don't know where to look for them? Our app plays the game of "Where's Waldo" for you, uniting neighbors together in bringing pets home one swipe at a time.
 
 ## Inspiration
 According to "Bring Jackson Home", 10 million dogs are lost per year. 70% of dogs that go missing are actually within a one-mile radius of their homes. We wanted to create an app that brings neighbors together in helping their dogs find their homes again.

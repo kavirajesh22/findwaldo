@@ -15,5 +15,5 @@ Using Node.Js, React, Javascript, and Figma, I went through the prototyping, and
 ## Challenges we ran into
 A big challenge was getting the Google Maps API to deploy properly into our React framework, but in the end, it all paid off.
 
-##What's next for Where's my Waldo?
+## What's next for Where's my Waldo?
 Towards the future, we hope to deploy a machine learning recognition model onto the matching between the spotters' pictures and the owners' dogs. We also hope to convert from a web to an app-based framework as I had planned to do in the beginning.
